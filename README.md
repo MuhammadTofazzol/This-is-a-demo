@@ -1,2 +1,2 @@
 # This-is-a-demo
-This is a my fast repository.
+This is a my first git repository.
